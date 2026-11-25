@@ -1,2 +1,3 @@
-# Christmas-support
-Public privacy policy, terms and support for Winter Letters (冬日来信). No application source.
+# Winter Letters Support
+
+Public English privacy policy, terms, and support pages for Winter Letters: Christmas. App source and signing files are not included.
